@@ -8,7 +8,6 @@
 
 <h1 align="center">Привет &#128075; я Данила</h1>
 
----
 
 ### :left_speech_bubble: Обо мне:
 
