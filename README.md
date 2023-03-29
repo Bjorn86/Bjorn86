@@ -27,6 +27,7 @@
   <img src="./image/sass-original.svg" title="Sass\Scss" alt="Sass\Scss" width="50" height="50">&nbsp;
   <img src="./image/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50">&nbsp;
   <img src="./image/react-original-wordmark.svg" title="React" alt="React" width="50" height="50">&nbsp;
+  <img src="./image/react-router-mark-color-inverted.svg" title="React Router" alt="VSCode" width="50" height="50">&nbsp;
   <img src="./image/webpack-original.svg" title="Webpack" alt="Webpack" width="50" height="50">&nbsp;
   <img src="./image/gulp-plain.svg" title="Gulp" alt="Gulp" width="50" height="50">&nbsp;
   <img src="./image/git-original.svg" title="Git" alt="Git" width="50" height="50">&nbsp;
