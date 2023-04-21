@@ -1,3 +1,22 @@
+<style>
+  #stack {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    background-color: #1a1b27;
+  }
+  #stack-img {
+    width: 50px;
+    height: 50px;
+    padding: 10px 0;
+    background-color: transparent;
+  }
+</style>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRkZjI1MTMxZWU0YTAxMzZlMTE4MWVhMTViMTFkYmEwMzM4NjRhOCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coder" width="300"/>
 </div>
@@ -6,8 +25,7 @@
   <img src="https://komarev.com/ghpvc/?username=Bjorn86&style=flat-square&color=brightgreen" alt="Views counter">
 </div>
 
-<h1 align="center">Привет &#128075; я Данила</h1>
-
+<h1 align="center">Привет &#128075; меня зовут Данила</h1>
 
 ### :left_speech_bubble: Обо мне:
 
@@ -22,16 +40,19 @@
 ### :hammer_and_wrench: Используемый стек и инструменты:
 
 <div id="stack">
-  <img src="./image/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50">&nbsp;
-  <img src="./image/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50">&nbsp;
-  <img src="./image/sass-original.svg" title="Sass\Scss" alt="Sass\Scss" width="50" height="50">&nbsp;
-  <img src="./image/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50">&nbsp;
-  <img src="./image/react-original-wordmark.svg" title="React" alt="React" width="50" height="50">&nbsp;
-  <img src="./image/react-router-mark-color-inverted.svg" title="React Router" alt="VSCode" width="50" height="50">&nbsp;
-  <img src="./image/webpack-original.svg" title="Webpack" alt="Webpack" width="50" height="50">&nbsp;
-  <img src="./image/gulp-plain.svg" title="Gulp" alt="Gulp" width="50" height="50">&nbsp;
-  <img src="./image/git-original.svg" title="Git" alt="Git" width="50" height="50">&nbsp;
-  <img src="./image/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50">&nbsp;
+  <img id="stack-img" src="./image/html5-original.svg" title="HTML5" alt="HTML5">
+  <img id="stack-img" src="./image/css3-original.svg" title="CSS3" alt="CSS3">
+  <img id="stack-img" src="./image/sass-original.svg" title="Sass\Scss" alt="Sass\Scss">
+  <img id="stack-img" src="./image/javascript-original.svg" title="JavaScript" alt="JavaScript">
+  <img id="stack-img" src="./image/react-original-wordmark.svg" title="React" alt="React">
+  <img id="stack-img" src="./image/react-router-mark-color-inverted.svg" title="React Router" alt="VSCode">
+  <img id="stack-img" src="./image/webpack-original.svg" title="Webpack" alt="Webpack">
+  <img id="stack-img" src="./image/gulp-plain.svg" title="Gulp" alt="Gulp">
+  <img id="stack-img" src="./image/nodejs-original.svg" title="Node.js" alt="Node.js">
+  <img id="stack-img" src="./image/express-original.svg" title="Express" alt="Express">
+  <img id="stack-img" src="./image/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB">
+  <img id="stack-img" src="./image/git-original.svg" title="Git" alt="Git">
+  <img id="stack-img" src="./image/vscode-original.svg" title="VSCode" alt="VSCode">
 </div>
 
 ---
