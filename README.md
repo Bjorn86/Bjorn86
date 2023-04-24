@@ -7,14 +7,30 @@
 </div>
 
 <h1 align="center">Привет &#128075; меня зовут Данила</h1>
+<p align="center">и я ищу интересную работу на должность frontend-developer</p>
+
+<div id="badges-connection" align="center">
+  <h3 id="header-connection" >Связаться со мной</h3>
+  <a taget="_blank" href="https://t.me/danila_legkobytov">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:legkobytov-danila@yandex.ru">
+    <img src="https://img.shields.io/badge/email-orange?style=for-the-badge&logo=mail.ru&logoColor=white" alt="e-mail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/danila-legkobytov/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+---
 
 ### :left_speech_bubble: Обо мне:
 
-Я начинающий frontend-разработчик из России
+Я начинающий frontend-developer из России
 
 - :man_technologist: Занимаюсь разработкой сайтов и веб-приложений, различной сложности. Информацию о используемом мной стеке можно найти ниже :point_down:
 - :climbing_man: Свободное время посвящаю саморазвитию - читаю документацию и статьи по веб-разработке, изучаю новые технологии, решаю задачи на CodeWars. В общем стремлюсь превратиться в профессионала в своём деле :man_student:
-- :mailbox: Для связи со мной можно использовать ссылки размещённые ниже :point_down:
+- :mailbox: Для связи со мной можно использовать ссылки размещённые выше :point_up:
 
 ---
 
@@ -27,11 +43,11 @@
   <img id="stack-img" src="./image/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/react-original-wordmark.svg" title="React" alt="React" width="50px" height="50px">&nbsp
   <!-- <img id="stack-img" src="./image/react-router-mark-color-inverted.svg" title="React Router" alt="VSCode" width="50px" height="50px">&nbsp -->
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./image/react-router-mark-color-inverted.svg" alt="React Router" title="React Router" width="50px" height="50px">
     <source media="(prefers-color-scheme: light)" srcset="./image/react-router-mark-color.svg" alt="React Router" title="React Router" width="50px" height="50px">
     <img src="./image/react-router-mark-color.svg" width="50px" height="50px" alt="React Router" title="React Router" width="50px" height="50px">
-  </picture>&nbsp
+  </picture>&nbsp -->
   <img id="stack-img" src="./image/webpack-original.svg" title="Webpack" alt="Webpack" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/gulp-plain.svg" title="Gulp" alt="Gulp" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/nodejs-original.svg" title="Node.js" alt="Node.js" width="50px" height="50px">&nbsp
@@ -63,18 +79,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div> -->
-
-<div id="badges-connection" align="center">
-  <h3 id="header-connection" >Связаться со мной</h3>
-  <a taget="_blank" href="https://t.me/danila_legkobytov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:legkobytov-danila@yandex.ru">
-    <img src="https://img.shields.io/badge/email-orange?style=for-the-badge&logo=mail.ru&logoColor=white" alt="e-mail"/>
-  </a>
-</div>
-
----
 
 <div id="footer" align="center">
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Code" width="300"/>
