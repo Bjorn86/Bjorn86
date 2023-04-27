@@ -7,7 +7,8 @@
 </div>
 
 <h1 align="center">Привет &#128075; меня зовут Данила</h1>
-<p align="center">и я ищу интересную работу на должность frontend-developer</p>
+
+<p align="center">Я живу в городе Сосновоборск Красноярского края, и ищу интересную работу на должность Frontend Developer / Web Developer</p>
 
 <div id="badges-connection" align="center">
   <h3 id="header-connection" >Связаться со мной</h3>
