@@ -40,6 +40,7 @@
   <img id="stack-img" src="./image/html5-original.svg" title="HTML5" alt="HTML5" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/css3-original.svg" title="CSS3" alt="CSS3" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/sass-original.svg" title="Sass\Scss" alt="Sass\Scss" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/styled-components.svg" title="Styled components" alt="Styled components" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/react-original.svg" title="React" alt="React" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/redux-original.svg" title="Redux/RTK" alt="Redux/RTK" width="50px" height="50px">&nbsp
